@@ -1,0 +1,10 @@
+C:\Универ\6 семестр\ADO.NET\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.exe
+C:\Универ\6 семестр\ADO.NET\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+C:\Универ\6 семестр\ADO.NET\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.json
+C:\Универ\6 семестр\ADO.NET\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.dev.json
+C:\Универ\6 семестр\ADO.NET\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+C:\Универ\6 семестр\ADO.NET\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+C:\Универ\6 семестр\ADO.NET\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+C:\Универ\6 семестр\ADO.NET\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+C:\Универ\6 семестр\ADO.NET\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+C:\Универ\6 семестр\ADO.NET\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.pdb
