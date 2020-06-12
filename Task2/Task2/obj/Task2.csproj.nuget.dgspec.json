@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Универ\\6 семестр\\ADO.NET\\Task1\\Task1\\Task1.csproj": {}
+    "C:\\Универ\\6 семестр\\ADO.NET\\Task2\\Task2\\Task2.csproj": {}
   },
   "projects": {
-    "C:\\Универ\\6 семестр\\ADO.NET\\Task1\\Task1\\Task1.csproj": {
+    "C:\\Универ\\6 семестр\\ADO.NET\\Task2\\Task2\\Task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Универ\\6 семестр\\ADO.NET\\Task1\\Task1\\Task1.csproj",
-        "projectName": "Task1",
-        "projectPath": "C:\\Универ\\6 семестр\\ADO.NET\\Task1\\Task1\\Task1.csproj",
+        "projectUniqueName": "C:\\Универ\\6 семестр\\ADO.NET\\Task2\\Task2\\Task2.csproj",
+        "projectName": "Task2",
+        "projectPath": "C:\\Универ\\6 семестр\\ADO.NET\\Task2\\Task2\\Task2.csproj",
         "packagesPath": "C:\\Users\\artyo\\.nuget\\packages\\",
-        "outputPath": "C:\\Универ\\6 семестр\\ADO.NET\\Task1\\Task1\\obj\\",
+        "outputPath": "C:\\Универ\\6 семестр\\ADO.NET\\Task2\\Task2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jKQlh8snrcWxcjBRvq7ZrK0m97DJ5odmshgL1CDgtJcSXJkvoILRIPYa30WaXb2dhEmiyd02f4uzE1eauAHb0g==",
+  "success": true,
+  "projectFilePath": "C:\\Универ\\6 семестр\\ADO.NET\\Task1\\Task1\\Task1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artyo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

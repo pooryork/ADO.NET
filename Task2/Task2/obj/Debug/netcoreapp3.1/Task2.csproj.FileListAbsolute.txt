@@ -1,0 +1,13 @@
+C:\Универ\6 семестр\ADO.NET\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.exe
+C:\Универ\6 семестр\ADO.NET\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.deps.json
+C:\Универ\6 семестр\ADO.NET\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.json
+C:\Универ\6 семестр\ADO.NET\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.dev.json
+C:\Универ\6 семестр\ADO.NET\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.dll
+C:\Универ\6 семестр\ADO.NET\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.pdb
+C:\Универ\6 семестр\ADO.NET\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.csprojAssemblyReference.cache
+C:\Универ\6 семестр\ADO.NET\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+C:\Универ\6 семестр\ADO.NET\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+C:\Универ\6 семестр\ADO.NET\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.CoreCompileInputs.cache
+C:\Универ\6 семестр\ADO.NET\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.dll
+C:\Универ\6 семестр\ADO.NET\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.pdb
+C:\Универ\6 семестр\ADO.NET\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.genruntimeconfig.cache
