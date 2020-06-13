@@ -60,9 +60,9 @@ namespace Task1
                 return ar;
             }
         }
-        public void output(Triangle[] ar)
+        public void output(Triangle[] ar, string path)
         {
-            using (StreamWriter fileOut = new StreamWriter("output.txt"))
+            using (StreamWriter fileOut = new StreamWriter(path))
             {
                 foreach (Triangle item in ar)
                 {

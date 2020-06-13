@@ -8,8 +8,8 @@ namespace Task1
         static void Main()
         {
             fileLib file = new fileLib();
-            Triangle[] ar = file.input("input.txt");
-            file.output(ar);
+            Triangle[] ar = file.input(@"../../../../Files/input.txt");
+            file.output(ar, @"../../../../Files/output.txt");
             foreach (Triangle item in ar)
             {
                 Console.WriteLine(item.show());

@@ -11,7 +11,7 @@ namespace Task2
 
             Console.WriteLine("Task 1:");
 
-            List<Student> ar = file.inputStudents("students.txt");
+            List<Student> ar = file.inputStudents(@"../../../../Files/students.txt");
             foreach (Student item in ar)
             {
                 Console.WriteLine(item.ToString());
@@ -21,7 +21,7 @@ namespace Task2
 
             Console.WriteLine("Task 2:");
 
-            List<Book> ar1 = file.inputBooks("books.txt");
+            List<Book> ar1 = file.inputBooks(@"../../../../Files/books.txt");
             foreach (Book item in ar1)
             {
                 Console.WriteLine(item.ToString());
